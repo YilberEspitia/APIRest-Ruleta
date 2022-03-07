@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "JbS2NkvxIP/hr6V3md7I6u+ay5wDbknywomCHZkMhIgFrVs5vLJZ1vhCDS5fMcobjkZT+KRWdAv+Lry2srj0HA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\API ruleta\\Roulette-ApiRest\\APIRest-Ruleta.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "No se encuentra el paquete Newtonsoft.Json con la versión (>= 12.0.3)\r\n  - Versiones encontradas en Microsoft Visual Studio Offline Packages: 1 [ versión más cercana: 9.0.1 ]",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete System.Configuration.ConfigurationManager. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.Configuration.ConfigurationManager",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete System.Data.SqlClient. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.NETCore.App.Host.win-x64. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
